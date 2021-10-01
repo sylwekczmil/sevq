@@ -1,0 +1,3 @@
+glass,movement_libras,phoneme,segment,spambase,vowel
+optdigits,page-blocks,satimage,shuttle,tae,texture
+bupa,zoo

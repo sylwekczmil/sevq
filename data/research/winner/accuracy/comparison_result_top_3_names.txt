@@ -1,0 +1,3 @@
+movement_libras,phoneme,tae,vowel
+satimage,segment,zoo
+glass,texture

@@ -1,0 +1,3 @@
+movement_libras,phoneme,tae,vowel
+coil2000,glass,hepatitis,satimage,segment,shuttle
+texture

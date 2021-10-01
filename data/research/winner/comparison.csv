@@ -1,0 +1,12 @@
+,algorithm,auc 1st,auc 2nd,auc 3rd,accuracy 1st,accuracy 2nd,accuracy 3rd
+1,XGB,7,9,3,8,8,4
+2,AB,6,0,5,6,1,3
+3,SEVQ,4,6,1,4,3,2
+4,GNB,4,4,3,4,0,1
+5,SVC,4,1,5,6,0,7
+6,NC,4,1,0,1,1,0
+7,MLP,3,4,8,4,5,9
+8,QDA,2,2,4,1,2,5
+9,KNN,1,4,2,1,4,1
+10,RF,1,2,4,1,6,3
+11,DT,0,3,1,0,6,1

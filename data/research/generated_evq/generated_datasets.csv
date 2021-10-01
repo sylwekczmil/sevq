@@ -1,0 +1,5 @@
+,dataset,records,0.9 accuracy after,max accuracy,max accuracy after,pearsonr,silhouette
+1,circles,100,,0.55,6,0.0103,0.0041
+2,moons,100,,1.0,21,-0.4353,0.3728
+3,3_blobs,100,,1.0,6,0.6941,0.7682
+4,spirals,200,,0.945,24,-0.2383,0.1477
