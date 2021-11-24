@@ -7,7 +7,7 @@ sevq
         :target: https://pypi.python.org/pypi/sevq
 
 .. image:: https://img.shields.io/travis/sylwekczmil/sevq.svg
-        :target: https://travis-ci.com/sylwekczmil/sevq
+        :target: https://travis-ci.com/github/sylwekczmil/sevq
 
 .. image:: https://readthedocs.org/projects/sevq/badge/?version=latest
         :target: https://sevq.readthedocs.io/en/latest/?version=latest
