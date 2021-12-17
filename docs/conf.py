@@ -48,6 +48,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'sevq'
 copyright = "2021, Sylwester Czmil"
+html_show_copyright = False
 author = "Sylwester Czmil"
 
 # The version info for the project you're documenting, acts as replacement
