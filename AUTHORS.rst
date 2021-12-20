@@ -2,11 +2,6 @@
 Credits
 =======
 
-Development Lead
-----------------
-
-* Sylwester Czmil <sylwekczmil@gmail.com>
-
 Contributors
 ------------
 

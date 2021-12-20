@@ -7,6 +7,9 @@ Welcome to sevq's documentation!
 
    readme
    installation
+   algorithm_visualisation
+   performance_comparison
+   research_replication
    contributing
    authors
    history
