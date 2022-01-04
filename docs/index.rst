@@ -8,6 +8,7 @@ Welcome to sevq's documentation!
    readme
    installation
    algorithm_visualisation
+   comparison_datasets_and_algorithms
    performance_comparison
    research_replication
    contributing
