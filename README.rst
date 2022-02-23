@@ -14,7 +14,7 @@ sevq
         :alt: Documentation Status
 
 
-SEVQ: Simplified Evolving Vector Quantization
+SEVQ: Simple Evolving Vector Quantization
 
 
 * Free software: MIT license

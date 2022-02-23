@@ -4,11 +4,10 @@
 
 from setuptools import setup, find_packages
 
+from sevq import VERSION
+
 with open('README.rst') as readme_file:
     readme = readme_file.read()
-
-with open('HISTORY.rst') as history_file:
-    history = history_file.read()
 
 requirements = ['numpy>=1.18.5', ]
 
@@ -28,10 +27,10 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="SEVQ: Simplified Evolving Vector Quantization",
+    description="SEVQ: Simple Evolving Vector Quantization",
     install_requires=requirements,
     license="MIT license",
-    long_description=readme + '\n\n' + history,
+    long_description=readme,
     include_package_data=True,
     keywords='sevq',
     name='sevq',
@@ -39,6 +38,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/sylwekczmil/sevq',
-    version='1.0.1',
+    version=VERSION,
     zip_safe=False,
 )
